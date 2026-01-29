@@ -1,0 +1,1 @@
+1,80, esguio, capa preta, vejo a ponta preta de um punhal saindo da capa

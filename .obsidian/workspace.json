@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "348a969971a4e9ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cffffeb68a82ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c377a074171c4ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7d70fafbd0bfd1f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7699e9cd5c1df92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "608d03fc3c092a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fb3343de02be55c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b06b7a9f08b6e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37fb5522dd4d7003",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22a532e689a88e73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e61b27ac4d31480",
+    "type": "split",
+    "children": [
+      {
+        "id": "115de234a74ef2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087c4ebaa0d28a9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ankhag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ankhag"
+            }
+          },
+          {
+            "id": "f8135dde4a08704f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ankhag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ankhag"
+            }
+          },
+          {
+            "id": "d4b4c5e66fd2bfef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59d5149f04c4ef08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7cd898e7140e3131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ankhag.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ankhag"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8c377a074171c4ee",
+  "lastOpenFiles": [
+    "Vila Esmeraldinha.md",
+    "Ensinegus.md",
+    "Dragon-Lance/Vila Esmeraldinha.md",
+    "Dragon-Lance/Pasted image 20260127011803.png",
+    "Dragon-Lance/Jeanny.md",
+    "Dragon-Lance/Floresta da Esmeralda.md",
+    "Dragon-Lance/Ensinegus.md",
+    "Dragon-Lance/Cidade Costa da Espada.md",
+    "Dragon-Lance/Ankhag.md",
+    "Dragon-Lance/PNG/Pasted image 20260127000932.png",
+    "Dragon-Lance/PNG/Pasted image 20260120191047.png",
+    "Dragon-Lance/PNG/Pasted image 20260120185903.png",
+    "Dragon-Lance/PNG/Pasted image 20260120183906.png",
+    "Dragon-Lance/PNG/costa_da_espada.webp",
+    "Dragon-Lance/PNG",
+    "Dragon-Lance/Party/Virion.md",
+    "Dragon-Lance/Party/Tarnum Magnum.md",
+    "Dragon-Lance/Party/Gleb Gourem.md",
+    "Dragon-Lance/Party/Cormoran Layborn.md",
+    "Dragon-Lance/Party",
+    "Jeanny.md",
+    "Pasted image 20260127011803.png",
+    "PNG/Pasted image 20260127000932.png",
+    "Floresta da Esmeralda.md",
+    "Cidade Costa da Espada.md",
+    "Ankhag.md",
+    "Party/Virion.md",
+    "Party/Cormoran Layborn.md",
+    "Party/Gleb Gourem.md",
+    "Party/Tarnum Magnum.md",
+    "PNG/costa_da_espada.webp",
+    "PNG/Pasted image 20260120191047.png",
+    "PNG",
+    "Party"
+  ]
+}

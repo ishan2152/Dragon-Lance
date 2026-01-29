@@ -1,0 +1,1 @@
+Humano, 1,80m de altura, olhos verdes, barba rala, calças botas de couro, coldre na diagonal com itens, sobretudo grande verde musgo escuro, 
