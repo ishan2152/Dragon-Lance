@@ -11,10 +11,12 @@
             "id": "91f65015f582174d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "PNG/Ankhag.png"
+              },
+              "icon": "lucide-image",
+              "title": "Ankhag"
             }
           }
         ]
@@ -176,6 +178,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "91f65015f582174d",
+  "active": "8add403dc48a50cf",
   "lastOpenFiles": []
 }
