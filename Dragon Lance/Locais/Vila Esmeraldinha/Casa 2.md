@@ -1,0 +1,1 @@
+Na casa 2, pelo visto eram de fazendeiros, fazendeiros enormes, lá falava que havia ferramentas, um bilhete que falava "Kerido, verificar como vai o senhor Wild" e um outro debaixo da cama falando "Kerido, aquele novo vizinho parece que sabe", uma tapeçaria do Almer e o crucifixo dele também

@@ -1,0 +1,1 @@
+O local é praticamente um espaço não euclidiano, o lado de fora parece muito menor do que o espaço de dentro

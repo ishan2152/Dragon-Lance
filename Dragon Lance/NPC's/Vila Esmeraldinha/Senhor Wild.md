@@ -1,0 +1,1 @@
+Pelo visto morava em uma vila costeira perto da cidade

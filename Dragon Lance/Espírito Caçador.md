@@ -1,0 +1,1 @@
+Um espírito conhecido como Wendigo ![[Pasted image 20260215201342.png]]
