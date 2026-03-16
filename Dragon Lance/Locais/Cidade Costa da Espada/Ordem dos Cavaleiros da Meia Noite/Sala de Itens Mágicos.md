@@ -16,3 +16,5 @@ Dimensão
 Um pergaminho aberto com uma interrogação infundido com magias do caos, pode acontecer qualquer coisa quando for utilizado
 
 O potencial é algo inato de um item mágico, uma propriedade que pode ser explorada e desbloqueada
+
+A Lâmina Exaltada, quando na lua cheia, emite luz a nove metros e todos os ataques que realizar tenho vantagem e, além disso, a cada turno posso recuperar 1d4+const (de quem receber) ou escolher que isso vá para um aliado
